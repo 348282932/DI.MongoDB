@@ -1,0 +1,13 @@
+E:\Example\MongoDb\DI.Yi.Mongodb\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Example\MongoDb\DI.Yi.Mongodb\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Example\MongoDb\DI.Yi.Mongodb\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Example\MongoDb\DI.Yi.Mongodb\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Example\MongoDb\DI.Yi.Mongodb\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Example\MongoDb\DI.Yi.Mongodb\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Example\MongoDb\DI.Yi.Mongodb\ConsoleApplication1\bin\Debug\DI.Yi.Mongodb.dll
+E:\Example\MongoDb\DI.Yi.Mongodb\ConsoleApplication1\bin\Debug\MongoDB.Driver.dll
+E:\Example\MongoDb\DI.Yi.Mongodb\ConsoleApplication1\bin\Debug\MongoDB.Bson.dll
+E:\Example\MongoDb\DI.Yi.Mongodb\ConsoleApplication1\bin\Debug\MongoDB.Driver.Core.dll
+E:\Example\MongoDb\DI.Yi.Mongodb\ConsoleApplication1\bin\Debug\DI.Yi.Mongodb.pdb
+E:\Example\MongoDb\DI.Yi.Mongodb\ConsoleApplication1\bin\Debug\MongoDB.Driver.xml
+E:\Example\MongoDb\DI.Yi.Mongodb\ConsoleApplication1\bin\Debug\MongoDB.Bson.xml

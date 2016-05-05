@@ -1,0 +1,9 @@
+E:\Example\MongoDb\DI.Yi.Mongodb\DI.Yi.Mongodb\bin\Debug\DI.Yi.Mongodb.dll
+E:\Example\MongoDb\DI.Yi.Mongodb\DI.Yi.Mongodb\bin\Debug\DI.Yi.Mongodb.pdb
+E:\Example\MongoDb\DI.Yi.Mongodb\DI.Yi.Mongodb\bin\Debug\MongoDB.Bson.dll
+E:\Example\MongoDb\DI.Yi.Mongodb\DI.Yi.Mongodb\bin\Debug\MongoDB.Driver.Core.dll
+E:\Example\MongoDb\DI.Yi.Mongodb\DI.Yi.Mongodb\bin\Debug\MongoDB.Driver.dll
+E:\Example\MongoDb\DI.Yi.Mongodb\DI.Yi.Mongodb\bin\Debug\MongoDB.Bson.xml
+E:\Example\MongoDb\DI.Yi.Mongodb\DI.Yi.Mongodb\bin\Debug\MongoDB.Driver.xml
+E:\Example\MongoDb\DI.Yi.Mongodb\DI.Yi.Mongodb\obj\Debug\DI.Yi.Mongodb.dll
+E:\Example\MongoDb\DI.Yi.Mongodb\DI.Yi.Mongodb\obj\Debug\DI.Yi.Mongodb.pdb
